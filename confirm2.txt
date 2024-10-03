@@ -1,1 +1,6 @@
 The checker is in review period. please review the real eccentric post after 
+
+
+The file is been modified for hacktoberfest.
+
+The shell script can be modified using #./sh script tag
